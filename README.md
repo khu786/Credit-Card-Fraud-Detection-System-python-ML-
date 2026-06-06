@@ -1,3 +1,3 @@
 # Credit-Card-Fraud-Detection-System-python-ML-
 This project consist of a CSV file Backend (Fast API)
-and it will sun as streamlit app you can use this as major and mini project for college and learning purpose
+and it will Run as streamlit app you can use this as major and mini project for college and learning purpose
